@@ -27,7 +27,7 @@ Shorten a long URL
     "shortUrl": "http://localhost:8080/NDY1Qk"
     }
     
- 
+ -----
  ## Expand URL
  
     GET /api/v1/{url}
@@ -47,7 +47,7 @@ Shorten a long URL
     "shortUrl": "http://localhost:8080/NDY1Qk"
     }
     
- 
+ -----
  ## Redirect to Original URL
     
     GET /{url}
