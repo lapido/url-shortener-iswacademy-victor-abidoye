@@ -3,7 +3,7 @@ A URL Shortening Service built with Java Spring, it uses redis as the in-memory 
 
 -----
 
-# URL Shortener
+## URL Shortener
 
     POST /api/v1/url
     
@@ -28,7 +28,7 @@ Shorten a long URL
     }
     
  
- # Expand URL
+ ## Expand URL
  
     GET /api/v1/{url}
 
@@ -48,7 +48,7 @@ Shorten a long URL
     }
     
  
- # Redirect to Original URL
+ ## Redirect to Original URL
     
     GET /{url}
     
